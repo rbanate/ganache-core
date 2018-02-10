@@ -1,6 +1,6 @@
 {
-  "name": "ganache-core",
-  "version": "2.1.0-beta.0",
+  "name": "rlb-ganache-core",
+  "version": "0.0.1",
   "main": "./index.js",
   "directories": {
     "lib": "./lib"
@@ -39,7 +39,8 @@
     "temp": "^0.8.3",
     "tmp": "0.0.31",
     "web3": "^0.20.1",
-    "web3-provider-engine": "git://github.com/benjamincburns/provider-engine.git#pubsub",
+    "web3-provider-engine":
+      "git://github.com/benjamincburns/provider-engine.git#pubsub",
     "webpack": "^2.2.1",
     "websocket": "^1.0.24",
     "yargs": "^7.0.2"
